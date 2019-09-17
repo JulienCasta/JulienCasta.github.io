@@ -14,3 +14,6 @@
 **3. Pour l'épreuve E4**
 
 - Présenter 2 projets sur les deux années de BTS
+
+**4. Photo de chat**
+![N|Solid](https://photolemur.com/uploads/blog/unnamed.jpg)
