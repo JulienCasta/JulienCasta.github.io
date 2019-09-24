@@ -1,0 +1,10 @@
+img{
+    float: left;
+}
+#button-amelia{
+    margin-left: 10px;
+}
+.text-amelia{
+    display: flex;
+    padding-left: 10px;
+}
